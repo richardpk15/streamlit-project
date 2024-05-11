@@ -1,0 +1,16 @@
+id,empresa,sede,pais,continente,setor,problema_financeiro,latitude,longitude
+1,Evergrande Real Estate Group,Shenzhen,China,Ásia,Imobiliário,Inadimplência de dívidas,22.5433,114.0522
+2,Luckin Coffee,Xiamen,China,Ásia,Alimentício,Fraude contábil,-24.6403,118.0771
+3,HNA Group,Haikou,China,Ásia,Aviação,Diversificação excessiva,20.0114,110.3893
+4,PG&E Corporation,San Francisco,Estados Unidos,América do Norte,Energia,Incêndios florestais,-37.7749,-122.4194
+5,JCPenney,Plano,Estados Unidos,América do Norte,Varejo,Declínio das vendas,-33.0494,-96.7569
+6,Sears Holdings Corporation,Hoffman Estates,Estados Unidos,América do Norte,Varejo,Declínio das vendas,42.0564,-88.0023
+7,Wirecard AG,Aschheim,Alemanha,Europa,Pagamentos digitais,Escândalo contábil,48.1851,11.7681
+8,Thomas Cook Group,Londres,Reino Unido,Europa,Turismo,Falência,51.5072,-0.1275
+9,Alitalia S.p.A.,Roma,Itália,Europa,Aviação,Gestão ineficiente,41.9028,12.4963
+10,Petrobras,Rio de Janeiro,Brasil,América do Sul,Petróleo e Gás,Escândalo de corrupção,-22.9028,-43.2075
+11,Odebrecht S.A.,São Paulo,Brasil,América do Sul,Construção,Escândalo de corrupção,-23.5505,46.6355
+12,PDVSA,Caracas,Venezuela,América do Sul,Petróleo e Gás,Má gestão e sanções internacionais,10.4801,-67.9693
+13,Reliance Communications Ltd.,Mumbai,Índia,Ásia,Telecomunicações,Alta dívida,-18.9225,72.8397
+14,Reliance Naval and Engineering Limited,Mumbai,Índia,Ásia,Construção naval,Diversificação fracassada,-18.9225,72.8397
+15,Tata Motors Limited,Mumbai,Índia,Ásia,Automotivo,Queda nas vendas,-18.9225,72.8397
